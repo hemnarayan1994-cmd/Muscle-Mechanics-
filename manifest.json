@@ -1,12 +1,11 @@
 {
-  "background_color": "rgb(17, 24, 39)",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Muscle Mechanics",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "MuscleMechanics",
-  "start_url": "/",
-  "theme_color": "rgb(17, 24, 39)",
-  "description": "Professional Gym Client Management and Monthly Billing System"
+  "description": "Professional Gym Client Management and Monthly Billing System",
+  "start_url": "/Muscle-Mechanics-/",
+  "scope": "/Muscle-Mechanics-/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111827",
+  "theme_color": "#111827"
 }
